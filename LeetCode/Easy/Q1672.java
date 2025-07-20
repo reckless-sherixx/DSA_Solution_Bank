@@ -1,14 +1,14 @@
 package LeetCode.Easy;
 
 public class Q1672 {
-     public int maximumWealth(int[][] accounts) {
+    public int maximumWealth(int[][] accounts) {
         int maxWealth = 0;
-        for(int i = 0 ; i< accounts.length ; i++){
+        for (int i = 0; i < accounts.length; i++) {
             int sum = 0;
-            for(int j = 0 ; j < accounts[i].length ; j++){
-                 sum += accounts[i][j];
+            for (int j = 0; j < accounts[i].length; j++) {
+                sum += accounts[i][j];
             }
-            maxWealth = Math.max(maxWealth , sum);
+            maxWealth = Math.max(maxWealth, sum);
         }
         return maxWealth;
     }
