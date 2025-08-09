@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 import java.util.*;
 

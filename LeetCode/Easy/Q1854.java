@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 public class Q1854 {
     public int maximumPopulation(int[][] logs) {

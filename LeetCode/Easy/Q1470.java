@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 public class Q1470 {
     public int[] shuffle(int[] nums, int n) {

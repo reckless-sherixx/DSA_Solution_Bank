@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 public class Q867 {
     public int[][] transpose(int[][] matrix) {

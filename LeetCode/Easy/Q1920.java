@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 public class Q1920 {
     public int[] buildArray(int[] nums) {

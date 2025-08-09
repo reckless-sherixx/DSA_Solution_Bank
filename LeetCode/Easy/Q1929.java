@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 public class Q1929 {
     public int[] getConcatenation(int[] nums) {

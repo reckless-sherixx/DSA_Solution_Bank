@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 public class Q744 {
     public char nextGreatestLetter(char[] letters, char target) {

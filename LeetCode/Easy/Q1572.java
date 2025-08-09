@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 public class Q1572 {
     public int diagonalSum(int[][] mat) {

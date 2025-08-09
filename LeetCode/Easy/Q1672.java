@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 public class Q1672 {
     public int maximumWealth(int[][] accounts) {

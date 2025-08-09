@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 public class Q1480 {
     public int[] runningSum(int[] nums) {

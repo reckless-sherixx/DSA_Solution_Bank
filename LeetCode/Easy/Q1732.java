@@ -1,4 +1,3 @@
-package LeetCode.Easy;
 
 public class Q1732 {
     public int largestAltitude(int[] gain) {
