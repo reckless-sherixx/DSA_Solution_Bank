@@ -1,4 +1,4 @@
-
+package LeetCode.Easy;
 
 public class Q566 {
     public int[][] matrixReshape(int[][] mat, int r, int c) {

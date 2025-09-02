@@ -1,3 +1,4 @@
+package LeetCode.Easy;
 
 public class Q66 {
     public int[] plusOne(int[] digits) {

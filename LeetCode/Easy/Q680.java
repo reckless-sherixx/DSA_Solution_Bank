@@ -1,3 +1,5 @@
+package LeetCode.Easy;
+
 public class Q680 {
     public boolean validPalindrome(String s) {
         int left = 0;

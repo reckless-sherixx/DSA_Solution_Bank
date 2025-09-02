@@ -1,4 +1,4 @@
-
+package LeetCode.Easy;
 
 public class Q645 {
     public int[] findErrorNums(int[] nums) {

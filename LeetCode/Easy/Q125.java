@@ -1,3 +1,4 @@
+package LeetCode.Easy;
 
 public class Q125{
     public boolean isPalindrome(String s) {

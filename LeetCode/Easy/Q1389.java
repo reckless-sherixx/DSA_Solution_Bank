@@ -1,3 +1,4 @@
+package LeetCode.Easy;
 
 import java.util.*;
 public class Q1389 {
