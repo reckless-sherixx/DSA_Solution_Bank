@@ -1,5 +1,5 @@
 class Solution:
-    def minDays(self, bloomDay: List[int], m: int, k: int) -> int:
+    def minDays(self, bloomDay, m, k) -> int:
         def no_of_bouquets(bloomDay, mid, k):
             num_of_bouquets = 0
             count = 0
